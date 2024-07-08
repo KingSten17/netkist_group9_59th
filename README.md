@@ -1,2 +1,6 @@
 # netkist_group9_59th
-netkist_group9_59th
+这是一个用C语言实现的 Linux系统下的网盘
+客户端采用长短命令多线程设计
+服务端采用线程池的设计
+
+
